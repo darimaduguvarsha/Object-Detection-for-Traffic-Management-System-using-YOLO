@@ -30,13 +30,13 @@
   objects in an image or a video frame, providing both the class labels and the bounding box coordinates for the detected objects.
 * During the custom training, the name.yaml file is fed to the YOLO Model and is trained.
 * During modelling a runs folder is created by default which contains the detect folder and the train folder.
-* The train folder contains all the performance reports of the tarining set like R_curve, PR_curve, F1_curve and results.
+* The train folder contains all the performance reports of the training set like R_curve, PR_curve, F1_curve and results.
 #  Validating Custom Model
 * We now validate the model using the validation set.
 * A seperate folder consisting the performance reports of validation set is created.
 # Inference with Custom Model
 * We now predict the model against the test data.
 # Visualization of the model's predictions on Test images
-
+* We now can visualize the F1-Confidence Curves and Precision-Confidence Curves and many more.
 
   
