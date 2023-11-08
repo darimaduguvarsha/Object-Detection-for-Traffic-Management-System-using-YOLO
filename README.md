@@ -39,4 +39,14 @@
 # Visualization of the model's predictions on Test images
 * We now can visualize the F1-Confidence Curves and Precision-Confidence Curves and many more.
 
-  
+
+# Challenges Faced..
+* As the data is a real time data, the data contains a large number of files.
+* As the dimensionality of the dataset is too large the configuration of the system needs to be a bit advanced.
+* The model training with the large data took a lot of time for a very less number of epochs.
+
+So, the same task with a less data is also done to analyze the YOLO Model performance.
+Here's the reference for the same task using a small dataset.
+
+# https://github.com/darimaduguvarsha/Object-detection-mini-dataset
+
